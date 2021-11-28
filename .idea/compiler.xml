@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DataStructure" />
+        <module name="Interview-September" />
+        <module name="Interview-July" />
+        <module name="LeetCode-Offer" />
+        <module name="LeetCode" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DataStructure" target="1.5" />
+      <module name="Interview-July" target="1.5" />
+      <module name="Interview-September" target="1.5" />
+      <module name="JavaOffer" target="1.5" />
+      <module name="LeetCode" target="1.5" />
+      <module name="LeetCode-Offer" target="6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

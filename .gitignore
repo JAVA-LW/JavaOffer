@@ -1,0 +1,6 @@
+# Project exclude paths
+/DataStructure/target/
+/Interview-July/target/
+/Interview-September/target/
+/LeetCode/target/
+/LeetCode-Offer/target/
